@@ -14,13 +14,6 @@
     }
 
 
-    h1{
-        font-family: 'Creepster', cursive ;
-        color: bisque;
-        font-size:350%;
-        border: 3px  ; #fff solid;
-        border-radius: 15px;
-     }
  
     body {
     background-color: #000000;
@@ -78,16 +71,19 @@ button{
 .home{
  
     flex-grow: 1;
+    color: white;
     font-weight: bolder;
     padding: 20px;
 }
 .sobre{
 
     flex-grow: 1;
+    color: white;
     font-weight: bolder;
 }
 .contato{
   
   flex-grow: 1;
+  color: white;
   font-weight: bolder;
 }
