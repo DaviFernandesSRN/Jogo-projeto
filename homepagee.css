@@ -1,14 +1,22 @@
 @import url('https://fonts.googleapis.com/css2? family= Creepster & display=swap');
    
+ 
+
     header{
-        background-color: black;
-        color: red;
-        text-align: center;
-        padding: 2%;
+        width: 100vw;
+        background-color: #000000;
+        display: flex;
+        flex-grow: 2;
     }
+    .header{
+        display: flex;
+        padding: 20px;
+    }
+
+
     h1{
         font-family: 'Creepster', cursive ;
-      
+        color: bisque;
         font-size:350%;
         border: 3px  ; #fff solid;
         border-radius: 15px;
@@ -58,3 +66,28 @@ button{
     }
   button{
   }
+
+  .DaviJogos {
+
+    color: white;
+    flex-grow: 3;
+    font-weight: bolder;
+
+}
+
+.home{
+ 
+    flex-grow: 1;
+    font-weight: bolder;
+    padding: 20px;
+}
+.sobre{
+
+    flex-grow: 1;
+    font-weight: bolder;
+}
+.contato{
+  
+  flex-grow: 1;
+  font-weight: bolder;
+}
