@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2? family= Creepster & display=swap');
    
- 
+ h1{
+     color: blue;
+ }
 
     header{
         width: 100vw;
@@ -19,12 +21,12 @@
     background-color: #000000;
     }
 
- }
+ 
 button{
-    margin: 10px;
+    margin: 50px;
     position: relative;
-    top: 600px;
-    height: 400px;
+    top: 200px;
+    left: 37%;
      
 }
     .btn1{
@@ -47,7 +49,6 @@ button{
         border-radius: 15px;
         cursor: pointer;
         
-
     }
 
     nav a {
@@ -55,10 +56,8 @@ button{
         font-weight: bold;
         font-size:22px ;
         text-decoration: none;
-
     }
-  button{
-  }
+ 
 
   .DaviJogos {
 

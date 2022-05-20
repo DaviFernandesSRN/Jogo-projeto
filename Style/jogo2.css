@@ -1,6 +1,6 @@
 
     body{
-      background-image: url("vagao.jpg");
+      
         background-color: black;
         text-align: center;
     }
@@ -59,7 +59,7 @@
             text-align: center;
         }
         .rodape{
-            color:blanchedalmond;
+            color:white;
             font-size:13px;
             margin: 20px 0 0:
 
