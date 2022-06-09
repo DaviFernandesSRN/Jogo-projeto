@@ -1,7 +1,9 @@
 # Módulo 01 - Projeto Final - Desenvolvimento de um jogo em JavaScript interativo com usuário.
 
-Game em Java Script contendo 3 personagens,com interação com usuário;
+Game em Java Script contendo 3 personagens,com interação com usuário.
+
 Temos neste jogo trÊs personagens:
+
 Personagem 1 (Levi)
 <img src="./assets/Soldado.jfif">
 Personagem 2 (Ben)
