@@ -4,11 +4,11 @@ Game em Java Script contendo 3 personagens,com interação com usuário.
 
 Temos neste jogo trÊs personagens:
 
-Personagem 1
+P1
 <img src="./assets/Soldado.jfif">
-Personagem 2
+P2
 <img src="./assets/Soldado1.jfif">
-Personagem 3
+P3
 <img src="./assets/Soldado2.jfif">
 
 Ferramentas:
