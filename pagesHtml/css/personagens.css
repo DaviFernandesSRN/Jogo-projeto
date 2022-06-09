@@ -1,0 +1,66 @@
+ body{
+      
+        background-color: black;
+        text-align: center;
+    }
+    .personagens li{
+
+        display: inline-block;
+        width: 220px;
+        margin:0 auto;
+        text-align: center;
+        vertical-align: top;
+        padding: 50px 0;
+        background-color:#CCCCCC ;
+        margin: 0 1.5%;
+        border-color: white;
+        border-width: 4px;
+        border-style: solid;
+        border-top-width: 10px;
+        border-radius: 10px;
+        color: white;
+    }
+
+    h2 {
+        font-size: 30px;
+        font-weight: bold;}
+
+        h1{
+            font-size: 30px;
+            color: green;
+        
+        }
+
+        .personagens1 {
+            font-size: 22px;
+            font-weight: lighter;
+        }
+
+        .personagens2 {
+            font-size: 22px;
+
+        }
+        b{
+            font-size: 40px;
+    
+        }
+       .personagens li:hover {
+            border-color: green;
+           cursor: pointer;
+           font-size: 100px;
+        }
+
+        .personagens li:hover h2{
+            color: black;
+            font-size: 40px;
+        }
+        footer{
+            text-align: center;
+        }
+        .rodape{
+            color:white;
+            font-size:13px;
+            margin: 20px 0 0
+        }
+
+    
