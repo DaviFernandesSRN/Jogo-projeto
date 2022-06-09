@@ -10,9 +10,7 @@ function primeiro(escolha) {
     
     var escolha = primeiro (prompt("Levi acordou em um hospital, escolha o que fazer no meio do caos, fugir ou esperar ?"));
     
-    
-
-
+   
     function segundo(escolha) {
         if(escolha ==  "sim"){
         return alert ("boa escolha")}
@@ -24,10 +22,8 @@ function primeiro(escolha) {
     }
 
 
-
     var escolha2 = segundo (prompt("Você encontrou 2 amigos com armas, aceita juntar-se a eles? sim ou não?"));
    
-
 
     function terceiro(escolha) {
         if(escolha ==  "cabeça"){
